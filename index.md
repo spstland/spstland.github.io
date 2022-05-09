@@ -2,10 +2,15 @@
 
 
 # SPSTLand Website
-Coming soon...<br>
-We are currently preparing the website. Check back later!<br>
+Welcome to the official SPSTLand Website, where we store all sorts of stuff about Supersingto!<br>
 
-<middle><sub>
+## Latest News
+[Coming Soon...](/news/comingsoon)
+
+## Latest Videos
+SPST Videos are coming soon. We are in the process of importing the videos from YouTube to the website.
+
+<center><sub>
   &copy;2018-2022, SPSTLand<br>
   Made by <i>mee</i> Company
-</sub></middle>
+</sub></center>
