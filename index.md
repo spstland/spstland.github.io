@@ -8,7 +8,7 @@ Welcome to the official SPSTLand Website, where we store all sorts of stuff abou
 [Coming Soon...](/news/comingsoon)
 
 ## Latest Videos
-[Race between Singto-Numnim-Carrot](/videos/singto-numnim-carrot-race)
+[Race between Singto-Numnim-Carrot](/videos/singto-numnim-carrot-race)<br>
 [SPST Building Viewpoint](/videos/spst-building-viewpoint)
 
 <br>
