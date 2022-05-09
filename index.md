@@ -1,5 +1,5 @@
 <style>
-  <link rel="stylesheet" href="mystyle.css">
+  <link rel="stylesheet" href="style.css">
 </style>
 
 # SPSTLand Website
