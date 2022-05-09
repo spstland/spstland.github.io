@@ -15,10 +15,10 @@
   }
   
   @font-face {
-    font-family: gt;
+    font-family: font;
     src: url(spstland.github.io/gt-america.ttf);
   }
   
   * {
-   font-family: gt;
+   font-family: font;
   }
