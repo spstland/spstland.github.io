@@ -1,6 +1,5 @@
-<style>
-  <link rel="stylesheet" href="style.css">
-</style>
+<link rel="stylesheet" href="style.css">
+
 
 # SPSTLand Website
 Coming soon...<br>
