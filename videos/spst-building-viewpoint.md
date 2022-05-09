@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://spstland.github.io/style.css">
 
 
-# Race between Singto-Numnim-Carrot
+# SPST Building Viewpoint
 Upload Date: Unknown<br>
 Reupload Date: 9 May 2022
 
