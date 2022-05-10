@@ -9,7 +9,7 @@ Welcome to the official SPSTLand Website, where we store all sorts of stuff abou
 
 ## Latest Videos
 [Race between Singto-Numnim-Carrot](/videos/singto-numnim-carrot-race)<br>
-[SPST Building Viewpoint](/videos/spst-building-viewpoint)
+[SPST Building Viewpoint](/videos/spst-building-viewpoint)<br>
 [*mee*PHONE 1 Commercial](/videos/meephone-commercial)
 
 <br>
