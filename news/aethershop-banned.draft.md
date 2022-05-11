@@ -21,4 +21,12 @@ After the online shopping platform posted an advertisement using CGI to mock Sin
 
 3. Please note that those who have a power level of over 10,000 in any form can use the AetherShop application freely without having to abide by these rules. You will still need to receieve a special permanent permit for using the platform at the Supersingto office. For safety, it is still highly recommended to receive your packages at the Supersingto Embassy of Wongwai Town or the Supersingto Embassy of Rainbow Town.
 4. If you violate these rules, you will receive a fine of 10,000,000 (ten million) Singtoland dollars and will be banished from Supersingtoland for a time frame of 10 (ten) Supersingto days.
-5. All cargo planes of the AetherShop brand will be shot down
+5. All cargo planes of the AetherShop brand will be shot down immediately if found flying into Supersingto airspace.
+
+This is to protect the Supersingto VIPs and citizens, and we hope you can understand.
+
+Regards,<br>
+Singto Naraak<br>
+King of Supersingtoland
+
+[Go back to Home](/)
