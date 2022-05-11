@@ -15,7 +15,7 @@ Welcome to the official SPSTLand Website, where we store all sorts of stuff abou
 ## Advertisement
 
 <div class="ad1">
-  Buy *mee*PHONE 2 now!<br>
+  Buy <i>mee</i>PHONE 2 now!<br>
   With stunning colors of Black, Silver, Rainbow, and Green.<br>
   Only for $200,000. Coriander trade-in is available.
 </div>
