@@ -1,0 +1,40 @@
+<style> /* Light mode */ @media (prefers-color-scheme: light) { body { background-color: white; color: black; } } /* Dark mode */ @media (prefers-color-scheme: dark) { body { background-color: black; color: white; } } @font-face { font-family: font; src: url(https://kornrt2018.github.io/gt-america.ttf); } * { font-family: font; } </style>
+
+<h1>meeCHAT For VIPs</h1><br>
+
+<h3>Enter message and press enter</h3>
+<div><input id=input placeholder="message" /></div>
+<br>
+<h3>Chat Output</h3>
+<div id=box></div>
+<script src=https://cdn.pubnub.com/sdk/javascript/pubnub.4.28.2.min.js></script>
+<script> (function() {
+        var pubnub = new PubNub({
+            publishKey: 'pub-c-b28bdb41-0c5f-4642-b3a0-c7a6dc9175bc',
+            subscribeKey: 'sub-c-b26d20a8-250e-11ec-880d-a65b09ab59bc'
+        });
+        function $(id) {
+            return document.getElementById(id);
+        }
+        var box = $('box'),
+            input = $('input'),
+            channel = '10chat-demo';
+        pubnub.addListener({
+            message: function(obj) {
+                box.innerHTML = ('' + obj.message).replace(/[<>]/g, '') + '<br>' + box.innerHTML
+            }
+        });
+        pubnub.subscribe({
+            channels: [channel]
+        });
+        input.addEventListener('keyup', function(e) {
+            if ((e.keyCode || e.charCode) === 13) {
+                pubnub.publish({
+                    channel: channel,
+                    message: input.value,
+                    x: (input.value = '')
+                });
+            }
+        });
+    })();
+</script>
