@@ -6,14 +6,14 @@ After the online shopping platform posted an advertisement using CGI to mock Sin
 
 1\. Supersingto cizitens are prohibited from buying products through the AetherShop platform.
 
-2\. If you really need to use the platform, please contact the Supersingto office to receive a temporary permit (only lasts for three Supersingto days), then enter your permit ID into the application. When your package is ready, please get your package at the following towns:
-    - Rainbow Town (RNB)
-    - Wongwai Town* (WNG)
-    - Fast Town* (FST)
-    - Tissue Town (TSU)
-    - Paper Town (PPR)
-    - Tonmai Town (TNM)
-    - Sunny Town (SUN)
+2\. If you really need to use the platform, please contact the Supersingto office to receive a temporary permit (only lasts for three Supersingto days), then enter your permit ID into the application. When your package is ready, please get your package at the following towns:<br><br>
+    - Rainbow Town (RNB)<br>
+    - Wongwai Town* (WNG)<br>
+    - Fast Town* (FST)<br>
+    - Tissue Town (TSU)<br>
+    - Paper Town (PPR)<br>
+    - Tonmai Town (TNM)<br>
+    - Sunny Town (SUN)<br>
     - Wairai Town<sup>#</sup> (WRI)
 
 <sub><i>*You will move fast when crossing the Singto-Wongwai border. Please take caution when entering Wongwai, as you may not be able to stop yourself. We do not take any responsibility for any damage caused by this.</i></sub>
