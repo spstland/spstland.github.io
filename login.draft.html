@@ -4,4 +4,11 @@
 <input type="text" id="user" name="user"><br>
 <label for="pass">Last name:</label><br>
 <input type="password" id="pass" name="pass"><br><br>
+<input type="button" value="Log In" onclick="login()">
 
+<br> 
+
+<script>
+  function login() {
+    var user = document.getElementById("user").value
+    var pass = document.getElementById("pass").value
