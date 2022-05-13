@@ -20,6 +20,9 @@ Welcome to the official SPSTLand Website, where we store all sorts of stuff abou
   Only for $200,000. Coriander trade-in is available.
 </div>
 
+## meeCHAT for VIPs
+[VIP Login](/vip-login)
+
 <br>
 
 <center><sub>
